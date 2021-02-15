@@ -69,7 +69,7 @@
     "style-loader": "^0.19.1",
     "webpack": "^3.12.0",
     "webpack-concat-plugin": "^2.4.2",
-    "webpack-dev-server": "^2.11.5",
+    "webpack-dev-server": "^3.1.11",
     "webpack-md5-hash": "0.0.6",
     "write-file-webpack-plugin": "^4.4.1"
   },
